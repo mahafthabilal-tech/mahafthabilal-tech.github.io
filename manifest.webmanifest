@@ -1,0 +1,11 @@
+{
+  "name": "Yousef IGCSE Study Lab",
+  "short_name": "IGCSE Lab",
+  "description": "English IGCSE lessons, worked examples and practice for Physics, Mathematics, Biology and Chemistry.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f5ef",
+  "theme_color": "#143c38",
+  "icons": [{"src":"app-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
