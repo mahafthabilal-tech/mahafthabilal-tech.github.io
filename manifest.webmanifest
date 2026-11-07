@@ -1,7 +1,7 @@
 {
   "name": "Yousef IGCSE Study Lab",
   "short_name": "IGCSE Lab",
-  "description": "English IGCSE lessons, worked examples and practice for Physics, Mathematics, Biology and Chemistry.",
+  "description": "English IGCSE lessons, worked examples and practice for Physics, Mathematics, Additional Mathematics, Biology and Chemistry.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

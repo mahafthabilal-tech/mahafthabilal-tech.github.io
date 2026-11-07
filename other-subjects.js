@@ -136,6 +136,6 @@ addChapter({id:'chem-organic',subject:'Chemistry',n:11,unit:'Organic chemistry',
 
 // Load the focused syllabus lessons before app.js initialises the interface.
 if(typeof document!=='undefined'&&document.write){
- ['full-course-helpers.js','math-expansion.js','biology-expansion-1.js','biology-expansion-2.js','chemistry-expansion.js']
+ ['full-course-helpers.js','math-expansion.js','biology-expansion-1.js','biology-expansion-2.js','chemistry-expansion.js','additional-math-expansion.js']
   .forEach(src=>document.write(`<script src="${src}"></script>`));
 }
